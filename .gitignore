@@ -1,0 +1,13 @@
+# Archivos generados por Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Entorno virtual de Python (por ejemplo, virtualenv, pipenv, venv)
+venv/
+env/
+.Python
+
+# Archivos de configuración locales
+.DS_Store
